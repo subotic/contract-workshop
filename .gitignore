@@ -14,3 +14,6 @@ evm/broadcast/**/dry-run/
 .vscode
 log/*.log
 tmp/**
+
+/.direnv
+.DS_Store
